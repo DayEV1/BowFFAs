@@ -1,0 +1,4 @@
+name: BowFFA
+version: '${project.version}'
+main: de.mentania.chroniks.bowffa.BowFFA
+api-version: '1.20'
